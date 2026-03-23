@@ -70,7 +70,7 @@ Frontend craft        -> interactive interfaces, charts, polished app flows
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
-- **Link:** 🔗 [View Source Code](https://github.com/SoumadeepCh/Reality-Firewall)
+- **Link:** 🔗 [View Source Code](https://github.com/SoumadeepCh/RealityFirewall)
 
 <br>
 
