@@ -101,6 +101,19 @@ Frontend craft        -> interactive interfaces, charts, polished app flows
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
 - **Link:** 🔗 [View Source Code](https://github.com/SoumadeepCh/SprintHive)
 
+<br>
+
+### 🪄 [OverlayBox](https://github.com/SoumadeepCh/OverlayBox)
+> *Natural-language live DOM styling & manipulation extension*
+
+- **Platform:** Floating MV3 Chrome Extension control panel parsing plain-English commands into reversible webpage restyling, themes, and macros. Built entirely framework-free with Shadow DOM isolation.
+- **Tech Stack:** <br/>
+  <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Web_APIs-000000?style=flat-square&logo=mdnwebdocs&logoColor=white" alt="Web APIs" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+- **Link:** 🔗 [View Source Code](https://github.com/SoumadeepCh/OverlayBox)
+
 ## GitHub Pulse
 
 <p align="center">
