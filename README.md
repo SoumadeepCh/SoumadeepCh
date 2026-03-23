@@ -59,7 +59,7 @@ Frontend craft        -> interactive interfaces, charts, polished app flows
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Reality Firewall](https://github.com/SoumadeepCh/Reality-Firewall)
+### 🛡️ [Reality Firewall](https://github.com/SoumadeepCh/RealityFirewall)
 > *Deepfake & manipulated-media analysis platform*
 
 - **Platform:** Multi-modal analysis for image, video, and audio with forensic-style reports for risk scoring and explainability.
@@ -139,7 +139,7 @@ When I'm taking a break from building, I keep my problem-solving skills sharp th
   <a href="https://leetcode.com/SoumadeepCh/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.chess.com/member/SoumadeepCh">
+  <a href="https://www.chess.com/member/laughinfoxx">
     <img src="https://img.shields.io/badge/-Chess-312E2B?style=for-the-badge&logo=Chess.com&logoColor=white" alt="Chess" />
   </a>
 </p>
