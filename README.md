@@ -22,7 +22,7 @@ I build ambitious full-stack products across AI, workflow automation, and multi-
 - ♟️ **Avid Chess player** and **LeetCode enthusiast**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/soumadeep-chatterjee-a779a4270/">
+  <a href="https://www.linkedin.com/in/soumadeepch">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:soumadeepc014@gmail.com">
